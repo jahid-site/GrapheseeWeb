@@ -1,0 +1,11 @@
+{
+  "login_welcome": "স্বাগতম!",
+  "login_email_phone": "ইমেল বা ফোন নাম্বার",
+  "login_password": "পাসওয়ার্ড",
+  "login_login": "লগ ইন করুন",
+  "login_forget_password": "পাসওয়ার্ড ভুলে গেছেন?",
+  "login_create_new_account": "নতুন একাউন্ট তৈরি করুন",
+  "login_or": "অথবা",
+  "login_google_signup": "গুগোল সাইন আপ"
+
+}

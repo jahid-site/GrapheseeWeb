@@ -1,0 +1,10 @@
+{
+  "login_welcome": "Wellcome to",
+  "login_email_phone": "Email or phone",
+  "login_password": "Password",
+  "login_login": "Login",
+  "login_forget_password": "Forgotten password?",
+  "login_create_new_account": "Create new account",
+  "login_or": "Or",
+  "login_google_signup": "Google Signup"
+}
